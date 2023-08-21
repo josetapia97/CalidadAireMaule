@@ -1,3 +1,5 @@
+![Encabezado de Overleaf](https://drive.google.com/uc?id=1nqQ0SQ8hMZcjIFJlHjLza8Toza1J8YtI)
+
 # Tesis de Titulación - Predicción de la Contaminación del Aire en la Región del Maule, Chile 🌍
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -31,6 +33,11 @@ Utilizamos QGIS, un Sistema de Información Geográfica (GIS), para crear una cu
 Nuestro enfoque puede ser útil para predecir niveles de PM$_{2.5}$ en lugares que carecen de estaciones de monitoreo. Ideas para futuros trabajos incluyen:
 
 1. Considerar otros contaminantes del aire y variables bioclimáticas.
+2. Generar polígonos de predicción para lugares con características geológicas similares.
+3. Probar el modelo en una cuadrícula de múltiples ubicaciones utilizando datos obtenidos de una API.
+
+¡Gracias por visitar mi repositorio! 😊
+
 2. Generar polígonos de predicción para lugares con características geológicas similares.
 3. Probar el modelo en una cuadrícula de múltiples ubicaciones utilizando datos obtenidos de una API.
 
